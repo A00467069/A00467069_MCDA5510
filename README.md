@@ -11,3 +11,5 @@ My fellow mates in the group are Vishnu Priyan and Vishnu Tej.
 Vishnu Priyan is a graduate from Computer Science department and is currently working in Chennai as a software developer. He is located close to me and my initial observeations of him are that he is very reserved. His interest towards this domain was mainly inspired by his senior and an alumini from Saint Mary's University. One interseting fun fact about him is that, he is usually panicked when there is a meeting called for discussion regarding anything but upon coming to the industry his panics became like normal event. (unable to put it as its best described in local language)
 
 Vishu Tej is a graduate from Computer Science department and is currently working in Banglore as a software developer and is the youngest of us all. He is jovial and we had lot of similar interest such as pets and travelling. One fun fact about him is that he is a coffee freak and never goes a day by when he drinks less than 5 cups of coffee.
+
+Prefered Email : calebjerry90@gmail.com
